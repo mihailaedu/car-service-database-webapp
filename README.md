@@ -33,4 +33,5 @@ Hidden primary and foreign keys from user interface
 At least one page implements full CRUD operations.
 
 Demo Video
+
 You can watch the demo here: https://youtu.be/78_Db1IyUdc
